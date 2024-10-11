@@ -18,9 +18,9 @@
 ## 👨🏻‍💻│기능 구현 목차
 ###   1. [TPS 카메라](https://github.com/DoubleOss/Proxima_Git?tab=readme-ov-file#1-tps-%EC%B9%B4%EB%A9%94%EB%9D%BC-%EA%B5%AC%ED%98%84)
 ###   2. [Player Controll](https://github.com/DoubleOss/Proxima_Git?tab=readme-ov-file#2-player-%EC%BB%A8%ED%8A%B8%EB%A1%A4-%EA%B5%AC%ED%98%84)
-###   3. [Weapon Chanage](https://github.com/DoubleOss/Proxima_Git?tab=readme-ov-file#2-player-%EC%BB%A8%ED%8A%B8%EB%A1%A4-%EA%B5%AC%ED%98%84)
-###   4. [UI Animation](https://github.com/DoubleOss/Proxima_Git?tab=readme-ov-file#2-player-%EC%BB%A8%ED%8A%B8%EB%A1%A4-%EA%B5%AC%ED%98%84)
-###   5. [Boss AI](https://github.com/DoubleOss/Proxima_Git?tab=readme-ov-file#2-player-%EC%BB%A8%ED%8A%B8%EB%A1%A4-%EA%B5%AC%ED%98%84)
+###   3. [Weapon Chanage](https://github.com/DoubleOss/Proxima_Git?tab=readme-ov-file#3-%EB%AC%B4%EC%9E%A5-%EB%B3%80%EA%B2%BD-%EA%B8%B0%EB%8A%A5)
+###   4. [UI Animation](https://github.com/DoubleOss/Proxima_Git?tab=readme-ov-file#4-ui-animation-1)
+###   5. [Boss AI](https://github.com/DoubleOss/Proxima_Git?tab=readme-ov-file#5-boss-ai-1)
 
 
 ### 1. TPS 카메라 구현

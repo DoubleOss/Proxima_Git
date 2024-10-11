@@ -120,13 +120,14 @@ public class MenuUIContorll : MonoBehaviour
 
         List<RaycastResult> results = new List<RaycastResult>();
         m_rayCaster.Raycast(m_rayHit, results);
-        // results 검출시 로직
+        //results 검출시 로직
         if (results.Count > 0)
         {
             //UI 태그 검색
             if(results[0].gameObject.CompareTag("SelectUi"))
             {
                 obj = results[0].gameObject;
+                // 게임오브젝트 이름 검색
 
                 GameObject selectObj = null;
                 if (obj.name.Equals("Btn_SinglePlay"))
@@ -149,6 +150,7 @@ public class MenuUIContorll : MonoBehaviour
                     obj.SetActive(false);
                 }
 
+                //없을경우 초기화
                 if ( selectObj != null)
                 {
                     TweenScale tween = selectObj.GetComponent<TweenScale>();
